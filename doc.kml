@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Universitas di Surabaya</name>
+    <description>Ternyata banyak juga</description>
+    <NetworkLink>
+      <name>Universitas di Surabaya</name>
+      <Link>
+        <href>http://www.google.com/maps/d/kml?mid=1K-tlXZK3IdJxLaz3G8dIENxvdjw</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
